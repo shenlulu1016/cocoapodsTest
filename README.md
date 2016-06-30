@@ -1,0 +1,3 @@
+# cocoapodsTest
+使用cocoapods练习iCarousel
+ios9任务管理器的效果实现
